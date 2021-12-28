@@ -58,6 +58,14 @@ Namespaces are one honking great idea -- let's do more of those!
 - Reducing Functions
 - Partial Functions
 
+### [Closures and Decorators](<Closures and Decorators.ipynb>):
+- Global and Local Scopes
+- Non-Local Scopes
+- Closures
+- Python Cells
+- Decorators
+- Decorator Factories
+
 ### [Multi-line Statements and Strings](<Multi-line Statements and Strings.ipynb>):
 - Physical vs. Logical Newlines
 - Multi-line String Literals
