@@ -66,6 +66,14 @@ Namespaces are one honking great idea -- let's do more of those!
 - Decorators
 - Decorator Factories
 
+### [Tuples](<Tuples.ipynb>):
+- Tuples as Data Structures
+- Dummy Variables
+- Named Tuples
+- Modifying/Extending Named Tuples
+- Default Values
+- Alternative to Dictionaries
+
 ### [Multi-line Statements and Strings](<Multi-line Statements and Strings.ipynb>):
 - Physical vs. Logical Newlines
 - Multi-line String Literals
