@@ -74,6 +74,15 @@ Namespaces are one honking great idea -- let's do more of those!
 - Default Values
 - Alternative to Dictionaries
 
+### [Sequences](<Sequences.ipynb>):
+- Sequence Types
+- Copying Sequences
+- Slicing
+- Concatenation and Repetition
+- Custom Sequences
+- Sorting
+- List Comprehensions
+
 ### [Multi-line Statements and Strings](<Multi-line Statements and Strings.ipynb>):
 - Physical vs. Logical Newlines
 - Multi-line String Literals
