@@ -30,58 +30,40 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 ## Table of Contents
-### [Variables and Memory References](<Variables and Memory References.ipynb>):
-- Reference Counting
-- Garbage Collection
-- Variable Equality
-- The None Object
-- Interning
-- Peephole Optimizations
 
-### [Im(mutability)](<Im(mutability).ipynb>):
-- Mutable Arguments
-- Shared References
-
-### [Parameters and Arguments](<Parameters and Arguments.ipynb>):
-- Positional and Keyword Arguments
-- Unpacking Iterables
-- Nested Unpacking
-- *args and **kwargs
-
-### [First Class Functions](<First Class Functions.ipynb>):
-- Higher-Order Functions
-- Docstrings
-- Annotations
-- Lambda Expressions
-- Introspection
-- Map, Filter, Zip and Comprehensions
-- Reducing Functions
-- Partial Functions
-
-### [Closures and Decorators](<Closures and Decorators.ipynb>):
-- Global and Local Scopes
-- Non-Local Scopes
-- Closures
-- Python Cells
-- Decorators
-- Decorator Factories
-
-### [Tuples](<Tuples.ipynb>):
-- Tuples as Data Structures
-- Dummy Variables
-- Named Tuples
-- Modifying/Extending Named Tuples
-- Default Values
-- Alternative to Dictionaries
-
-### [Sequences](<Sequences.ipynb>):
-- Sequence Types
-- Copying Sequences
-- Slicing
-- Concatenation and Repetition
-- Custom Sequences
-- Sorting
-- List Comprehensions
+| Chapter 1                                                                   | Chapter 2 |
+| --------------------------------------------------------------------------- | --------- |
+| [Variables and Memory References](<Variables and Memory References.ipynb>): | [Tuples](<Tuples.ipynb>):
+|   - Reference Counting                                                      |   - Tuples as Data Structures
+|   - Garbage Collection                                                      |   - Dummy Variables
+|   - Variable Equality                                                       |   - Named Tuples
+|   - The None Object                                                         |   - Modifying/Extending Named Tuples
+|   - Interning                                                               |   - Default Values
+|   - Peephole Optimizations                                                  |   - Alternative to Dictionaries
+| [Im(mutability)](<Im(mutability).ipynb>):                                   | [Sequences](<Sequences.ipynb>):
+|   - Mutable Arguments                                                       |   - Sequence Types
+|   - Shared References                                                       |   - Copying Sequences
+| [Parameters and Arguments](<Parameters and Arguments.ipynb>):               |   - Slicing
+|   - Positional and Keyword Arguments                                        |   - Concatenation and Repetition
+|   - Unpacking Iterables                                                     |   - Custom Sequences
+|   - Nested Unpacking                                                        |   - Sorting
+|   - *args and **kwargs                                                      |   - List Comprehensions
+| [First Class Functions](<First Class Functions.ipynb>):                     | [Iterables and Iterators](<Iterables and Iterators.ipynb>):
+|   - Higher-Order Functions                                                  |   - Iterator Protocol
+|   - Docstrings                                                              |   - Iterable Protocol
+|   - Annotations                                                             |   - Lazy Iterables
+|   - Lambda Expressions                                                      |   - The `iter()` Function
+|   - Introspection                                                           |   - Reverse Iteration
+|   - Map, Filter, Zip and Comprehensions                                     |
+|   - Reducing Functions                                                      |
+|   - Partial Functions                                                       |
+| [Closures and Decorators](<Closures and Decorators.ipynb>):                 |
+|   - Global and Local Scopes                                                 |
+|   - Non-Local Scopes                                                        |
+|   - Closures                                                                |
+|   - Python Cells                                                            |
+|   - Decorators                                                              |
+|   - Decorator Factories                                                     |
 
 ### [Multi-line Statements and Strings](<Multi-line Statements and Strings.ipynb>):
 - Physical vs. Logical Newlines
