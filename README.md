@@ -31,8 +31,8 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## Table of Contents
 
-| Chapter 1                                                                   | Chapter 2 |
-| --------------------------------------------------------------------------- | --------- |
+| Chapter 1                                                                   | Chapter 2                                                   |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | [Variables and Memory References](<Variables and Memory References.ipynb>): | [Tuples](<Tuples.ipynb>):
 |   - Reference Counting                                                      |   - Tuples as Data Structures
 |   - Garbage Collection                                                      |   - Dummy Variables
@@ -52,13 +52,13 @@ Namespaces are one honking great idea -- let's do more of those!
 |   - Higher-Order Functions                                                  |   - Iterator Protocol
 |   - Docstrings                                                              |   - Iterable Protocol
 |   - Annotations                                                             |   - Lazy Iterables
-|   - Lambda Expressions                                                      |   - The `iter()` Function
+|   - Lambda Expressions                                                      |   - The iter() Function
 |   - Introspection                                                           |   - Reverse Iteration
-|   - Map, Filter, Zip and Comprehensions                                     |
-|   - Reducing Functions                                                      |
-|   - Partial Functions                                                       |
-| [Closures and Decorators](<Closures and Decorators.ipynb>):                 |
-|   - Global and Local Scopes                                                 |
+|   - Map, Filter, Zip and Comprehensions                                     | [Generators](<Generators.ipynb>):
+|   - Reducing Functions                                                      |   - Yielding and Generator Functions
+|   - Partial Functions                                                       |   - Iterables from Generators
+| [Closures and Decorators](<Closures and Decorators.ipynb>):                 |   - Generator Expressions
+|   - Global and Local Scopes                                                 |   - Yield From
 |   - Non-Local Scopes                                                        |
 |   - Closures                                                                |
 |   - Python Cells                                                            |
