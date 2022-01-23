@@ -59,11 +59,14 @@ Namespaces are one honking great idea -- let's do more of those!
 |   - Partial Functions                                                       |   - Iterables from Generators
 | [Closures and Decorators](<Closures and Decorators.ipynb>):                 |   - Generator Expressions
 |   - Global and Local Scopes                                                 |   - Yield From
-|   - Non-Local Scopes                                                        |
-|   - Closures                                                                |
-|   - Python Cells                                                            |
-|   - Decorators                                                              |
-|   - Decorator Factories                                                     |
+|   - Non-Local Scopes                                                        | [Iteration Tools](<Iteration Tools.ipynb>):
+|   - Closures                                                                |   - Aggregators
+|   - Python Cells                                                            |   - Slicing Iterables
+|   - Decorators                                                              |   - Selecting/Filtering
+|   - Decorator Factories                                                     |   - Infinite Iterators
+|                                                                             |   - Chaining and Teeing
+|                                                                             |   - Mapping and Reducing
+|                                                                             |   - Zipping
 
 ### [Multi-line Statements and Strings](<Multi-line Statements and Strings.ipynb>):
 - Physical vs. Logical Newlines
