@@ -59,11 +59,15 @@ Namespaces are one honking great idea -- let's do more of those!
 |   - Partial Functions                                                       |   - Iterables from Generators
 | [Closures and Decorators](<Closures and Decorators.ipynb>):                 |   - Generator Expressions
 |   - Global and Local Scopes                                                 |   - Yield From
-|   - Non-Local Scopes                                                        | [Iteration Tools](<Iteration Tools.ipynb>):
-|   - Closures                                                                |   - Aggregators
-|   - Python Cells                                                            |   - Slicing Iterables
-|   - Decorators                                                              |   - Selecting/Filtering
-|   - Decorator Factories                                                     |   - Infinite Iterators
+|   - Non-Local Scopes                                                        | [Context Managers](<Context Managers.ipynb>):
+|   - Closures                                                                |   - The Context Manager Protocol
+|   - Python Cells                                                            |   - Generators as Context Managers
+|   - Decorators                                                              |   - Decorators as Context Managers
+|   - Decorator Factories                                                     | [Iteration Tools](<Iteration Tools.ipynb>):
+|                                                                             |   - Aggregators
+|                                                                             |   - Slicing Iterables
+|                                                                             |   - Selecting/Filtering
+|                                                                             |   - Infinite Iterators
 |                                                                             |   - Chaining and Teeing
 |                                                                             |   - Mapping and Reducing
 |                                                                             |   - Zipping
