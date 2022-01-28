@@ -45,25 +45,25 @@ Namespaces are one honking great idea -- let's do more of those!
 |   - Shared References                                                       |   - Copying Sequences
 | [Parameters and Arguments](<Parameters and Arguments.ipynb>):               |   - Slicing
 |   - Positional and Keyword Arguments                                        |   - Concatenation and Repetition
-|   - Unpacking Iterables                                                     |   - Custom Sequences
-|   - Nested Unpacking                                                        |   - Sorting
+|   - Unpacking Iterables*                                                    |   - Custom Sequences*
+|   - Nested Unpacking*                                                       |   - Sorting
 |   - *args and **kwargs                                                      |   - List Comprehensions
 | [First Class Functions](<First Class Functions.ipynb>):                     | [Iterables and Iterators](<Iterables and Iterators.ipynb>):
-|   - Higher-Order Functions                                                  |   - Iterator Protocol
-|   - Docstrings                                                              |   - Iterable Protocol
+|   - Higher-Order Functions                                                  |   - Iterator Protocol*
+|   - Docstrings                                                              |   - Iterable Protocol*
 |   - Annotations                                                             |   - Lazy Iterables
 |   - Lambda Expressions                                                      |   - The iter() Function
 |   - Introspection                                                           |   - Reverse Iteration
 |   - Map, Filter, Zip and Comprehensions                                     | [Generators](<Generators.ipynb>):
-|   - Reducing Functions                                                      |   - Yielding and Generator Functions
-|   - Partial Functions                                                       |   - Iterables from Generators
+|   - Reducing Functions                                                      |   - Yielding and Generator Functions*
+|   - Partial Functions                                                       |   - Iterables from Generators*
 | [Closures and Decorators](<Closures and Decorators.ipynb>):                 |   - Generator Expressions
 |   - Global and Local Scopes                                                 |   - Yield From
 |   - Non-Local Scopes                                                        | [Context Managers](<Context Managers.ipynb>):
-|   - Closures                                                                |   - The Context Manager Protocol
+|   - Closures*                                                               |   - The Context Manager Protocol
 |   - Python Cells                                                            |   - Generators as Context Managers
-|   - Decorators                                                              |   - Decorators as Context Managers
-|   - Decorator Factories                                                     | [Iteration Tools](<Iteration Tools.ipynb>):
+|   - Decorators*                                                             |   - Decorators as Context Managers
+|   - Decorator Factories*                                                    | [Iteration Tools](<Iteration Tools.ipynb>):
 |                                                                             |   - Aggregators
 |                                                                             |   - Slicing Iterables
 |                                                                             |   - Selecting/Filtering
@@ -71,6 +71,8 @@ Namespaces are one honking great idea -- let's do more of those!
 |                                                                             |   - Chaining and Teeing
 |                                                                             |   - Mapping and Reducing
 |                                                                             |   - Zipping
+
+`*` topics that have further examples in the code/ directory
 
 ### [Multi-line Statements and Strings](<Multi-line Statements and Strings.ipynb>):
 - Physical vs. Logical Newlines
