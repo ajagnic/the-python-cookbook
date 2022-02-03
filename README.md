@@ -39,11 +39,11 @@ Namespaces are one honking great idea -- let's do more of those!
 |   - Variable Equality                                                       |   - Named Tuples                                            |   - Property Decorators
 |   - The None Object                                                         |   - Modifying/Extending Named Tuples                        |   - Class and Static Methods
 |   - Interning                                                               |   - Default Values                                          |   - Class Body Scope
-|   - Peephole Optimizations                                                  |   - Alternative to Dictionaries
-| [Im(mutability)](<Im(mutability).ipynb>):                                   | [Sequences](<Sequences.ipynb>):
-|   - Mutable Arguments                                                       |   - Sequence Types
-|   - Shared References                                                       |   - Copying Sequences
-| [Parameters and Arguments](<Parameters and Arguments.ipynb>):               |   - Slicing
+|   - Peephole Optimizations                                                  |   - Alternative to Dictionaries                             | [Dunder Methods](<Dunder Methods.ipynb>):
+| [Im(mutability)](<Im(mutability).ipynb>):                                   | [Sequences](<Sequences.ipynb>):                             |   - Arithmetic Operators
+|   - Mutable Arguments                                                       |   - Sequence Types                                          |   - Rich Comparisons
+|   - Shared References                                                       |   - Copying Sequences                                       |   - Hashing and Equality
+| [Parameters and Arguments](<Parameters and Arguments.ipynb>):               |   - Slicing                                                 |   - Finalizer
 |   - Positional and Keyword Arguments                                        |   - Concatenation and Repetition
 |   - Unpacking Iterables*                                                    |   - Custom Sequences*
 |   - Nested Unpacking*                                                       |   - Sorting
