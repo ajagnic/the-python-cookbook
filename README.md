@@ -31,14 +31,14 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## Table of Contents
 
-| Chapter 1                                                                   | Chapter 2                                                   |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Variables and Memory References](<Variables and Memory References.ipynb>): | [Tuples](<Tuples.ipynb>):
-|   - Reference Counting                                                      |   - Tuples as Data Structures
-|   - Garbage Collection                                                      |   - Dummy Variables
-|   - Variable Equality                                                       |   - Named Tuples
-|   - The None Object                                                         |   - Modifying/Extending Named Tuples
-|   - Interning                                                               |   - Default Values
+| Chapter 1                                                                   | Chapter 2                                                   | Chapter 3
+| --------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------
+| [Variables and Memory References](<Variables and Memory References.ipynb>): | [Tuples](<Tuples.ipynb>):                                   | [Objects and Classes](<Objects and Classes.ipynb>):
+|   - Reference Counting                                                      |   - Tuples as Data Structures                               |   - Class Attributes 
+|   - Garbage Collection                                                      |   - Dummy Variables                                         |   - Properties
+|   - Variable Equality                                                       |   - Named Tuples                                            |   - Property Decorators
+|   - The None Object                                                         |   - Modifying/Extending Named Tuples                        |   - Class and Static Methods
+|   - Interning                                                               |   - Default Values                                          |   - Class Body Scope
 |   - Peephole Optimizations                                                  |   - Alternative to Dictionaries
 | [Im(mutability)](<Im(mutability).ipynb>):                                   | [Sequences](<Sequences.ipynb>):
 |   - Mutable Arguments                                                       |   - Sequence Types
