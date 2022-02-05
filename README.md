@@ -1,5 +1,4 @@
-# The Python Bible
-A collection of notes on Python, its inner workings, and some lesser known aspects of it.
+# The Python Cookbook
 
 ## The 19 Aphorisms
 ```python
@@ -44,12 +43,12 @@ Namespaces are one honking great idea -- let's do more of those!
 |   - Mutable Arguments                                                       |   - Sequence Types                                          |   - Rich Comparisons
 |   - Shared References                                                       |   - Copying Sequences                                       |   - Hashing and Equality
 | [Parameters and Arguments](<Parameters and Arguments.ipynb>):               |   - Slicing                                                 |   - Finalizer
-|   - Positional and Keyword Arguments                                        |   - Concatenation and Repetition
-|   - Unpacking Iterables*                                                    |   - Custom Sequences*
-|   - Nested Unpacking*                                                       |   - Sorting
-|   - *args and **kwargs                                                      |   - List Comprehensions
-| [First Class Functions](<First Class Functions.ipynb>):                     | [Iterables and Iterators](<Iterables and Iterators.ipynb>):
-|   - Higher-Order Functions                                                  |   - Iterator Protocol*
+|   - Positional and Keyword Arguments                                        |   - Concatenation and Repetition                            | [Inheritance](<Inheritance.ipynb>):
+|   - Unpacking Iterables*                                                    |   - Custom Sequences*                                       |   - Defining Subclasses
+|   - Nested Unpacking*                                                       |   - Sorting                                                 |   - The object Class
+|   - *args and **kwargs                                                      |   - List Comprehensions                                     |   - Overriding Functionality
+| [First Class Functions](<First Class Functions.ipynb>):                     | [Iterables and Iterators](<Iterables and Iterators.ipynb>): |   - Delegating to the Parent
+|   - Higher-Order Functions                                                  |   - Iterator Protocol*                                      |   - Slots
 |   - Docstrings                                                              |   - Iterable Protocol*
 |   - Annotations                                                             |   - Lazy Iterables
 |   - Lambda Expressions                                                      |   - The iter() Function
