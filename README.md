@@ -52,7 +52,7 @@ Namespaces are one honking great idea -- let's do more of those!
 |   - Docstrings                                                              |   - Iterable Protocol*                                      | [Descriptors](<Descriptors.ipynb>):
 |   - Annotations                                                             |   - Lazy Iterables                                          |   - Descriptor Protocol*
 |   - Lambda Expressions                                                      |   - The iter() Function                                     |   - Weak References*
-|   - Introspection                                                           |   - Reverse Iteration                                       |   - The __set_name__ Method*
+|   - Introspection                                                           |   - Reverse Iteration                                       |   - The \_\_set_name__ Method*
 |   - Map, Filter, Zip and Comprehensions                                     | [Generators](<Generators.ipynb>):                           |   - Property Lookup Resolution
 |   - Reducing Functions                                                      |   - Yielding and Generator Functions*
 |   - Partial Functions                                                       |   - Iterables from Generators*
