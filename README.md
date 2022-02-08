@@ -49,11 +49,11 @@ Namespaces are one honking great idea -- let's do more of those!
 |   - *args and **kwargs                                                      |   - List Comprehensions                                     |   - Overriding Functionality*
 | [First Class Functions](<First Class Functions.ipynb>):                     | [Iterables and Iterators](<Iterables and Iterators.ipynb>): |   - Delegating to the Parent*
 |   - Higher-Order Functions                                                  |   - Iterator Protocol*                                      |   - Slots*
-|   - Docstrings                                                              |   - Iterable Protocol*
-|   - Annotations                                                             |   - Lazy Iterables
-|   - Lambda Expressions                                                      |   - The iter() Function
-|   - Introspection                                                           |   - Reverse Iteration
-|   - Map, Filter, Zip and Comprehensions                                     | [Generators](<Generators.ipynb>):
+|   - Docstrings                                                              |   - Iterable Protocol*                                      | [Descriptors](<Descriptors.ipynb>):
+|   - Annotations                                                             |   - Lazy Iterables                                          |   - Descriptor Protocol*
+|   - Lambda Expressions                                                      |   - The iter() Function                                     |   - Weak References*
+|   - Introspection                                                           |   - Reverse Iteration                                       |   - The __set_name__ Method*
+|   - Map, Filter, Zip and Comprehensions                                     | [Generators](<Generators.ipynb>):                           |   - Property Lookup Resolution
 |   - Reducing Functions                                                      |   - Yielding and Generator Functions*
 |   - Partial Functions                                                       |   - Iterables from Generators*
 | [Closures and Decorators](<Closures and Decorators.ipynb>):                 |   - Generator Expressions
