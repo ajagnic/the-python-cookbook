@@ -54,11 +54,11 @@ Namespaces are one honking great idea -- let's do more of those!
 |   - Lambda Expressions                                                      |   - The iter() Function                                     |   - Weak References*
 |   - Introspection                                                           |   - Reverse Iteration                                       |   - The \_\_set_name__ Method*
 |   - Map, Filter, Zip and Comprehensions                                     | [Generators](<Generators.ipynb>):                           |   - Property Lookup Resolution
-|   - Reducing Functions                                                      |   - Yielding and Generator Functions*
-|   - Partial Functions                                                       |   - Iterables from Generators*
-| [Closures and Decorators](<Closures and Decorators.ipynb>):                 |   - Generator Expressions
-|   - Global and Local Scopes                                                 |   - Yield From
-|   - Non-Local Scopes                                                        | [Context Managers](<Context Managers.ipynb>):
+|   - Reducing Functions                                                      |   - Yielding and Generator Functions*                       | [Enumerations](<Enumerations.ipynb>):
+|   - Partial Functions                                                       |   - Iterables from Generators*                              |   - Using Enumerations
+| [Closures and Decorators](<Closures and Decorators.ipynb>):                 |   - Generator Expressions                                   |   - Aliases
+|   - Global and Local Scopes                                                 |   - Yield From                                              |   - Customizing/Extending Enumerations
+|   - Non-Local Scopes                                                        | [Context Managers](<Context Managers.ipynb>):               |   - Automatic Values
 |   - Closures*                                                               |   - The Context Manager Protocol
 |   - Python Cells                                                            |   - Generators as Context Managers
 |   - Decorators*                                                             |   - Decorators as Context Managers
